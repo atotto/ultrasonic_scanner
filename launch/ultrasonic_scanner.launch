@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<launch>
+  <node pkg="ultrasonic_scanner" name="ultrasonic_scanner" type="ultrasonic_scanner.py"/>
+</launch>
